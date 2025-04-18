@@ -47,3 +47,4 @@ test_case.pdf
 
 # test_case
 #### Файл содержит таблицу тест-кейсов и описание багов (для удобства формат .pdf .xlsx и ссылка на Google Docs)
+##### https://docs.google.com/spreadsheets/d/1h_MVxO3GWaWNrXL_IU9-P1REGz0fF5Zzp-Rc6fU8ziA/edit?gid=0#gid=0
