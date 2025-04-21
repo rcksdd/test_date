@@ -5,6 +5,9 @@
 #### 3. Локализовать и описать найденные баги.
 
 # Описание файлов
+# main.exe
+Исправленная версия программы CALENDAR_1.1.exe
+
 # test_doc
 #### Файл содержащий тестовую документацию (для удобство формат .pdf и ссылка на Google Docs)
 ##### https://docs.google.com/spreadsheets/d/1h_MVxO3GWaWNrXL_IU9-P1REGz0fF5Zzp-Rc6fU8ziA/edit?gid=0#gid=0
